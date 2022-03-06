@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>地球观察员</title>
   
-  <subtitle>Earth observer</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>The meaning of human life is to constantly resist the process of increasing entropy.</subtitle>
+  <link href="https://entropyobserver.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://entropyobserver.github.io/"/>
   <updated>2022-02-19T10:15:53.678Z</updated>
-  <id>http://example.com/</id>
+  <id>https://entropyobserver.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>地球观察员</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/02/19/hello-world/"/>
-    <id>http://example.com/2022/02/19/hello-world/</id>
+    <link href="https://entropyobserver.github.io/2022/02/19/hello-world/"/>
+    <id>https://entropyobserver.github.io/2022/02/19/hello-world/</id>
     <published>2022-02-19T10:15:53.678Z</published>
     <updated>2022-02-19T10:15:53.678Z</updated>
     
